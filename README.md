@@ -1,5 +1,6 @@
 # ImageProcessing
-<h1><img class="alignnone  wp-image-99" src="https://catmaoblog.files.wordpress.com/2016/10/6lqz4de.png" alt="Icon made by Freepik from www.flaticon.com" width="40" height="40" /> <a href="https://catmaoblog.wordpress.com/2016/11/14/imageprocessing/" target="_blank">點我前往</a>
+<h1><img class="alignnone  wp-image-99" src="https://catmaoblog.files.wordpress.com/2016/10/6lqz4de.png" alt="Icon made by Freepik from www.flaticon.com" width="40" height="40" /> <a href="https://catmao1230.github.io/ImageProcessing/" target="_blank">點我前往</a>
+<h1><img class="alignnone  wp-image-99" src="https://catmaoblog.files.wordpress.com/2016/10/6lqz4de.png" alt="Icon made by Freepik from www.flaticon.com" width="40" height="40" /> <a href="https://catmaoblog.wordpress.com/2016/11/14/imageprocessing/" target="_blank">WordPress</a>
 <h1><img class="alignnone  wp-image-41" src="https://catmaoblog.files.wordpress.com/2016/10/3h9rzur.png" alt="Icon made by Popcorns Arts from www.flaticon.com" width="40" height="40" /> 前言</h1>
 「網際網路程式設計」<a href="http://blog.xuite.net/wen_pinn/blog" target="_blank">方老師</a>最近教我們使用 Javascript 來達到影像處理的功能，使用 <a href="http://www.w3school.com.cn/tags/canvas_getimagedata.asp" target="_blank">GetImageData()</a> 來取得圖像的 RGB 值，加以改變便可使影像變化。本次作業是做一個美肌的影像處理，可以用 if 來搜尋所有的皮膚色，將九宮格內的皮膚色加以平均，如此一來便達到美膚的效果。
 
